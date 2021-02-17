@@ -5,7 +5,7 @@
   <name>Template Maven Plugin</name>
   <groupId>com.github.xjcyan1de</groupId>
   <artifactId>template-maven-plugin</artifactId>
-  <version>1.0.2-SNAPSHOT</version>
+  <version>1.0.3</version>
   <url>http://github.com/XjCyan1de/template-maven-plugin</url>
   <inceptionYear>2021</inceptionYear>
   <packaging>maven-plugin</packaging>
